@@ -38,7 +38,7 @@ This repository contains all of my project solutions for the freeCodeCamp certif
 
 ## Me
 
-I'm a software engineer with a passion for learning and problem-solving.
+I'm a junior software engineer with a passion for learning and problem-solving.
 I'm currently pursuing a Master's degree in Artificial Intelligence and have a background in Computer Science.
 I'm always looking for new opportunities to grow and develop my skills, and I'm excited to see where my journey with freeCodeCamp will take me.
 
