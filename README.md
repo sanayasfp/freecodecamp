@@ -46,4 +46,3 @@ If you'd like to learn more about me or connect with me, you can find me on the 
 
 - [freeCodeCamp Profile](https://www.freecodecamp.org/sana_yasfp)
 - [LinkedIn Profile](https://www.linkedin.com/in/sanayasfp/)
-- [Malt Profile](https://www.malt.fr/profile/sanayasfp)
